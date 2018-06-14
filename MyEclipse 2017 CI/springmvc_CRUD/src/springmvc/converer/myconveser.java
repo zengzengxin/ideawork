@@ -1,11 +1,7 @@
 package springmvc.converer;
 //jasgdajksgdksajgdjkasgd
 //远程修改
-<<<<<<< HEAD
-//modif remote jshdfkjs
-=======
-//modif remote aaa
->>>>>>> branch 'master' of https://github.com/zengzengxin/myeclipse_test_git.git
+//modif remote jshdfkjs+aaa
 import org.springframework.core.convert.converter.Converter;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Controller;
