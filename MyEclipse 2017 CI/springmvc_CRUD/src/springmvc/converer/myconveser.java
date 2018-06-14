@@ -1,7 +1,7 @@
 package springmvc.converer;
 //jasgdajksgdksajgdjkasgd
 //远程修改
-//remote modify
+//modify
 import org.springframework.core.convert.converter.Converter;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Controller;
